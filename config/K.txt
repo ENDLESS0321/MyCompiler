@@ -1,0 +1,14 @@
+int
+void
+break
+float
+while
+do
+struct
+const
+case
+for
+return
+if
+default
+else
